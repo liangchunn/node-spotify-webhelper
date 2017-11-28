@@ -4,7 +4,7 @@
   "description": "Node.js interface for the local Spotify WebHelper API",
   "main": "index.js",
   "dependencies": {
-    "wintools": "git@github.com:anodejs/node-wintools.git",
+    "wintools": "https://github.com/anodejs/node-wintools",
     "request": ">=2.36.0"
   },
   "devDependencies": {},
